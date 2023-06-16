@@ -1,1 +1,1 @@
-console.log(" Ilove coding")
+console.log(document.title);
